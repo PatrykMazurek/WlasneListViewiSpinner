@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wlasne ListView i Spinner</string>
+    <string name="country">Lista krajów</string>
+    <string name="surface">Powieszchnia </string>
+    <string name="capitol">Stolica</string>
+</resources>
